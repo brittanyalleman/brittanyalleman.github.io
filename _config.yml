@@ -1,11 +1,11 @@
 # Site settings
 author: Brittany Alleman
-title: 
+title: Brittany.HelloWorld
 header-img: img/home-bg.png
 email: brittany.alleman1@gmail.com
 copyright_name: Brittany Alleman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey into the unknown passion, hope, and drive
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  brittanyalleman
